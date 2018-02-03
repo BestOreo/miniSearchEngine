@@ -236,9 +236,9 @@ We will use similar approach to generate other two executables
 
 ## Result:
 Assignment-A
-![](https://github.com/BestOreo/Pic-for-README.md/blob/master/minisearchengine/1.png)
+![](https://github.com/BestOreo/Pic-for-README.md/blob/master/minisearchengine/11.png)
 Assignment-B
-![](https://github.com/BestOreo/Pic-for-README.md/blob/master/minisearchengine/2.png)
+![](https://github.com/BestOreo/Pic-for-README.md/blob/master/minisearchengine/12.png)
 Assignment-C
-![](https://github.com/BestOreo/Pic-for-README.md/blob/master/minisearchengine/3.png)
+![](https://github.com/BestOreo/Pic-for-README.md/blob/master/minisearchengine/13.png)
 
