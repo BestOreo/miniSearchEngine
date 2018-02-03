@@ -234,3 +234,11 @@ say pagerank in the above example. Again, please make sure that you **DO NOT hav
 We will use similar approach to generate other two executables
 (for inverted.c and  searchPagerank.c).
 
+## Result:
+Assignment-A
+![](https://github.com/BestOreo/Pic-for-README.md/blob/master/minisearchengine/1.png)
+Assignment-B
+![](https://github.com/BestOreo/Pic-for-README.md/blob/master/minisearchengine/2.png)
+Assignment-C
+![](https://github.com/BestOreo/Pic-for-README.md/blob/master/minisearchengine/3.png)
+
